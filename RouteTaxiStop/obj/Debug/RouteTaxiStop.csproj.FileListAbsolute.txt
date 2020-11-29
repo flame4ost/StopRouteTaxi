@@ -1,0 +1,6 @@
+C:\Users\User\RiderProjects\RouteTaxiStop\RouteTaxiStop\obj\Debug\RouteTaxiStop.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\RouteTaxiStop\RouteTaxiStop\obj\Debug\RouteTaxiStop.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\RouteTaxiStop\RouteTaxiStop\bin\Debug\RouteTaxiStop.exe
+C:\Users\User\RiderProjects\RouteTaxiStop\RouteTaxiStop\bin\Debug\RouteTaxiStop.pdb
+C:\Users\User\RiderProjects\RouteTaxiStop\RouteTaxiStop\obj\Debug\RouteTaxiStop.exe
+C:\Users\User\RiderProjects\RouteTaxiStop\RouteTaxiStop\obj\Debug\RouteTaxiStop.pdb
